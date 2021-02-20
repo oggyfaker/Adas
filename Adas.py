@@ -44,8 +44,6 @@ class Adas(Optimizer):
         self._lr = lr
         self._lr2 = lr2
         self._lr3 = lr3
-if __name__ == "__main__":
-    optim = Adas() 
         self._beta_1 = beta_1
         self._beta_2 = beta_2
         self._beta_3 = beta_3
